@@ -1,3 +1,3 @@
-module github.com //localmod1
+module github.com/mkruczek/localmod1
 
 go 1.13
